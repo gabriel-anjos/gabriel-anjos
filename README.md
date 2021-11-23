@@ -20,9 +20,6 @@
 
 ##  Proximas tecnologias em foco:
 
-<style>
-    
-</style>
 
 <ul>
 <li>Amazon AWS <img style="vertical-align:middle" aligne = "center" alt = "AmazonAWS" src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> </li>
