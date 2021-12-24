@@ -2,7 +2,6 @@
 
 [![social-midia](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-anjos-60050b1b2/) [![social-midia](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_anjos_Dev/)
 
-![gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=anjos-gabriel&show_icons=true&theme=radical)
 
 ## Tecnologias utilizadas no meu cotidiano 👨‍💻
 
