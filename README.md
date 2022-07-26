@@ -17,7 +17,7 @@
 <img  alt = "status" src =  	"https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-anjos&theme=blue-green">
 </div><br/>
 
-##  Proximas tecnologias em foco:
+##  Proximas tecnologias em foco :
 
 
 <ul>
