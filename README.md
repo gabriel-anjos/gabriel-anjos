@@ -14,7 +14,7 @@
     <img aligne = "center" alt = "node" src =  	"https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div><br/>
 <div>
-<img  alt = "status" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-anjos&theme=blue-green">
+<img  alt = "status" src="https://github-readme-stats.vercel.app/api?username=gabriel-anjos&theme=blue-green">
 </div><br/>
 
 ##  Proximas tecnologias em foco :
