@@ -15,7 +15,7 @@
   </div><br/>
 <div>
 <img  alt = "status" src="https://github-readme-stats.vercel.app/api?username=gabriel-anjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img  alt = "status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-anjos&layout=compact&çangs_count=16&theme=blue-green">
+<img  alt = "status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-anjos&layout=compact&langs_count=16&theme=dracula">
 </div><br/>
 
 ##  Proximas tecnologias em foco :
