@@ -15,7 +15,7 @@
   </div><br/>
 <div>
 <img  alt = "status" src="https://github-readme-stats.vercel.app/api?username=gabriel-anjos&theme=blue-green">
-<img  alt = "status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-anjos&layout-compact&theme=blue-green">
+<img  alt = "status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-anjos&layout=compact&çangs_count=16&theme=blue-green">
 </div><br/>
 
 ##  Proximas tecnologias em foco :
